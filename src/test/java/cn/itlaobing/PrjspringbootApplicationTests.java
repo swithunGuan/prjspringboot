@@ -10,4 +10,5 @@ class PrjspringbootApplicationTests {
     void contextLoads() {
     }
 
+	System.out.println();
 }
